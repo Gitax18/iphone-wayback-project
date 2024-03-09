@@ -29,11 +29,11 @@ await fetch('./data.json').then(res=> {
     console.error(err);
 })
 
-console.log(data[0].launch_date);
 
 const maxLimit = data.length;
 let counter = 0;
 
+getDOM(data, 0, img, title, info, timeDate, timeMonth, timeYear)
 
 btnNext.addEventListener('click', (e)=>{
     if(counter < maxLimit - 1 ) counter++
