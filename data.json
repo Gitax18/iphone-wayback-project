@@ -1,0 +1,133 @@
+[
+    {
+      "name": "iPhone",
+      "launch_date": {
+        "dd": 29,
+        "mm": 6,
+        "yyyy": 2007
+      },
+      "img": "resources/iphone1.png",
+      "info": "Revolutionized smartphones. 2 MP camera. Multi-touch interface. Paved the way for modern smartphones."
+    },
+    {
+      "name": "iPhone 3GS",
+      "launch_date": {
+        "dd": 19,
+        "mm": 6,
+        "yyyy": 2009
+      },
+      "img": "resources/iphone3gs.png",
+      "info": "Faster performance. Voice Control feature. 3 MP camera with video recording. Improved battery."
+    },
+    {
+      "name": "iPhone 4",
+      "launch_date": {
+        "dd": 24,
+        "mm": 6,
+        "yyyy": 2010
+      },
+      "img": "resources/iphone4.png",
+      "info": "Retina display. Front-facing camera. Stainless steel band. First iPhone with Facetime."
+    },
+    {
+      "name": "iPhone 5",
+      "launch_date": {
+        "dd": 21,
+        "mm": 9,
+        "yyyy": 2012
+      },
+      "img": "resources/iphone5.png",
+      "info": "Taller 4-inch display. Lightning connector. Slimmer and lighter design. Improved performance."
+    },
+    {
+      "name": "iPhone 6",
+      "launch_date": {
+        "dd": 19,
+        "mm": 9,
+        "yyyy": 2014
+      },
+      "img": "resources/iphone6.png",
+      "info": "Larger displays. Sleeker design. A8 chip. Improved camera. NFC for Apple Pay."
+    },
+    {
+      "name": "iPhone 7",
+      "launch_date": {
+        "dd": 16,
+        "mm": 9,
+        "yyyy": 2016
+      },
+      "img": "resources/iphone7.png",
+      "info": "Water and dust resistant. Stereo speakers. Dual-camera system. No headphone jack."
+    },
+    {
+      "name": "iPhone 8",
+      "launch_date": {
+        "dd": 22,
+        "mm": 9,
+        "yyyy": 2017
+      },
+      "img": "resources/iphone8.png",
+      "info": "Glass back for wireless charging. A11 Bionic chip. Augmented reality capabilities."
+    },
+    {
+      "name": "iPhone X",
+      "launch_date": {
+        "dd": 3,
+        "mm": 11,
+        "yyyy": 2017
+      },
+      "img": "resources/iphonex.png",
+      "info": "Face ID. Edge-to-edge OLED display. Dual cameras with portrait mode. Animoji."
+    },
+    {
+        "name": "iPhone 11",
+        "launch_date": {
+          "dd": 20,
+          "mm": 9,
+          "yyyy": 2019
+        },
+        "img": "resources/iphone11.png",
+        "info": "Dual-camera system. Night mode. A13 Bionic chip. Liquid Retina display."
+    },
+    {
+      "name": "iPhone 12",
+      "launch_date": {
+        "dd": 23,
+        "mm": 10,
+        "yyyy": 2020
+      },
+      "img": "resources/iphone12.png",
+      "info": "5G capable. A14 Bionic chip. Ceramic Shield. MagSafe. Night mode."
+    },
+    {
+      "name": "iPhone 13",
+      "launch_date": {
+        "dd": 24,
+        "mm": 9,
+        "yyyy": 2021
+      },
+      "img": "resources/iphone13.png",
+      "info": "A15 Bionic chip. Cinematic mode. Improved battery life. ProMotion display. 5G."
+    },
+    {
+      "name": "iPhone 14",
+      "launch_date": {
+        "dd": 22,
+        "mm": 9,
+        "yyyy": 2022
+      },
+      "img": "resources/iphone14.png",
+      "info": "Advanced camera system. Faster performance. Longer battery life. Enhanced durability."
+    },
+    {
+      "name": "iPhone 15",
+      "launch_date": {
+        "dd": 20,
+        "mm": 9,
+        "yyyy": 2023
+      },
+      "img": "resources/iphone15.png",
+      "info": "Revolutionary design. AI integration. Ultrafast connectivity. Advanced AR capabilities. Enhanced security."
+    }
+  ]
+  
